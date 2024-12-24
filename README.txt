@@ -7,4 +7,7 @@ Follow these commands. The numbers are order, hence they should not be a part of
 (To clean up the generated files, command "make clean".)
 3. gnuplot
 
-After entering GNUplot with the command 3, copy g
+After entering GNUplot with the command 3, copy Gnuplot.txt and paste to command.
+
+
+* You can change the number of trials in 241201.c.
