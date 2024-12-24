@@ -1,0 +1,5 @@
+set title "Error against trials"
+set xlabel "Trials (log scale)"
+set ylabel "Error (%)"
+set grid
+plot "error_data.txt" using 1:2 with lines title "Percentage Error"
